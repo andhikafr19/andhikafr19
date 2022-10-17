@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @andhikafr19
-- 👀 I’m interested in Cloud Computing, JavaScript, PHP
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Andhika Firdaus R
+- 👀 I’m interested in Cloud Computing, JavaScript, PHP 
+- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
