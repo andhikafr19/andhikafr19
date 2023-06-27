@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andhika Firdaus R
 - 👀 I’m interested in Cloud Computing, JavaScript, PHP 
-- 🌱 I’m currently learning Laravel, Node.js
+- 🌱 I’m currently learning Laravel, Node.js, fastAPI
 - 📫 How to reach me https://www.linkedin.com/in/andhikafirdaus/
 
 <!---
